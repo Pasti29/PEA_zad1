@@ -1,3 +1,0 @@
-D:/Projects/CLion/PEA_zad1/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Projects/CLion/PEA_zad1/cmake-build-debug/CMakeFiles/PEA_zad1.dir
-D:/Projects/CLion/PEA_zad1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
